@@ -10,7 +10,7 @@ O projeto “Uso de Bioensumos” (O uso de bioinsumos substitui defensivos e fe
 
 Por meio de textos, imagens, curiosidades, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
-O objetivo do projeto é ......................................
+O objetivo do projeto é trazer mais conhecimento sobre o uso de bioensumos.
 
 O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
